@@ -30,3 +30,18 @@ website, that has different categories.
   Dropdown menus
  </li> 
 </ul>
+
+<h2>Home Page</h2>
+<img src="http://danielpervaiz.com/github/images/TheBlogger-home.png"/>
+
+<h2>Authors Page</h2>
+<img src="http://danielpervaiz.com/github/images/TheBlogger-Author.png"/>
+
+<h2>Categories Page</h2>
+<img src="http://danielpervaiz.com/github/images/TheBlogger-Categories.png"/>
+
+<h2>Author's Post Page</h2>
+<img src="http://danielpervaiz.com/github/images/TheBlogger-AuthorPost.png"/>
+
+<h2>Contact Page</h2>
+<img src="http://danielpervaiz.com/github/images/TheBlogger-Contact.png"/>
