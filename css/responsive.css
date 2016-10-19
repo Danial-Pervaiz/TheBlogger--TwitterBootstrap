@@ -1,0 +1,86 @@
+@media (max-width:1200px){	
+.block .container,.container{padding:0 15px}
+.springdale-post > h4{font-size:17px}
+.list-post-detail > h3{font-size:18px;line-height:23px}
+}
+
+
+@media (max-width:980px){
+.block .container,.container{padding:0 15px}
+.logo-bar{padding:10px 0}
+.logo{display:unset;float:left;margin-bottom:20px;margin-top:10px;text-align:center;width:100%}
+.header-add{display:unset;float:left;width:100%}
+.header-add img{max-width:100%}
+.logo img{max-width:100%}
+nav{display:none}
+.search{float:left;width:50%}
+.responsive-menu{display:block}
+.popular-posts .row > div{float:left;width:50%}
+.springdale-post-small{width:50%}
+.stories .row > div{float: left;width: 50%}
+.post-name > h3{padding-right:30px}
+.stories-carousel .stories .row > div{width:100%}
+aside.sidebar,aside.sidebar.side-gap{float:left;padding:40px 15px 0;width:100%}
+.gallery > img{width:100%}
+.gallery-text{padding-left:0;width:100%}
+}
+
+
+
+
+
+@media (max-width:767px){
+.logo{padding:30px 50px}	
+.logo img{max-width:100%}
+.featured-post h3, 
+.featured-post.style2 h3{font-size:20px;line-height:25px;padding:20px}
+.block.white-box{padding:45px 20px}
+.springdale-post-small{width:100%}
+.list-post{display: unset;float: left;padding: 0 15px;width: 50%;}
+.list-post > img{width:100%}
+.list-post-detail{display: unset;float: left;padding: 30px 0 0; width:100%}
+.springdale-list{float: none;margin: 0 -15px;width:auto;}
+footer{padding: 50px 20px}
+.post-title{font-size:30px;line-height:35px}
+.post-info .meta{float:left;width:100%;text-align:left;}
+.post-share{float:left;margin-top:20px;width:100%}
+.post-info{padding:10px 0}
+.post-data.side-gap{padding:0}
+.other-post{margin:10px 0;width:100%}
+.comments-section ul ul .comment{padding-left:0}
+.post-intro.style2 h1{font-size: 30px;line-height: 30px;margin-top: 10px;padding:0}
+blockquote{font-size: 20px;line-height: 24px;padding:0}
+.single-post-overlay{background:#222;float:left;padding:30px 20px;position:relative;width:100%}
+.single-post-img.style2 h1.post-title {font-size:25px;line-height:28px;margin-top:10px;padding-right:0}
+.post-by-authors .author-detail{padding-left:0}
+.authors-page .author-detail{padding-left:0}
+}
+
+
+@media (max-width:480px){
+.popular-posts .row > div{width:100%}
+.stories .row > div{width:100%}
+.list-post{width:100%}
+.topics-wrapper{padding:10px 0}
+.topics-wrapper > span{float:left;margin-bottom:10px;position:relative;top:0}
+ul.secondary-menu{text-align:center;width:100%}
+ul.secondary-menu li{display:inline-block; float:none}
+.topbar .social{text-align:center;width:100%}
+.topbar .social a{display: inline-block;float:none}
+.featured-post h3, .featured-post.style2 h3{font-size:17px;line-height:20px;padding:10px}
+.springdale-post-small{display:unset}
+.post-name{display:unset;float:left;padding-left:0;padding-top:10px;width:100%}
+.post-name > h3{padding-right:0}
+.springdale-post-small > img{display:unset}
+.newsletter > form input{width:100%}
+.newsletter > form button{width:100%}
+.responsive-menu > ul{width: 240px !important;left:-240px}
+.author{display:unset;padding:30px 0}
+.author > img,
+.comment > img {display:unset}
+.author-detail,
+.comment-detail{display: unset;float: left;margin-top: 20px;padding: 0;width:100%}
+.comment{display:unset;float:left;width:100%}
+.post-intro.style2 h1{font-size: 25px;line-height:25px}
+}
+

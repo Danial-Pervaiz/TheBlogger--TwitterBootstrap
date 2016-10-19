@@ -1,0 +1,18 @@
+a:hover,
+.tags > a,
+blockquote span{
+	color:#3fb1ec;
+}
+
+.owl-dot.active,
+.pagination > li.active a,
+.newsletter > form button,
+.form-btn{
+	background-color:#3fb1ec;
+}
+
+
+.owl-dot.active,
+.pagination > li.active a{
+	border-color:#3fb1ec;
+}
